@@ -1,0 +1,11 @@
+header{
+  background-color: #ccc;
+  padding: 20px;
+  
+}
+
+.navbar ul{
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
